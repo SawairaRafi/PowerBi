@@ -1,0 +1,61 @@
+
+.DashboardStyle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-sm{
+  display: flex;
+    justify-content: center;
+
+}
+
+.row{
+  height: 100%;
+}
+
+.card-body{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.btnStyle{
+  border:1px solid #EF305E !important;
+  background-color: #131313 !important;
+}
+.btnStyle:hover {
+  background-color:#EF305E !important;
+  border-color:#131313;
+}
+
+.dashbtn{
+  background-color:#EF305E !important;
+  border-color:#131313 !important;
+  /* border: #EF305E !important; */
+}
+
+.dashbtn:hover{
+  border:1px solid #EF305E !important;
+  background-color: white !important;
+  color:#EF305E !important;
+
+}
+
+a.nav-link{
+  color:azure !important;
+}
+
+
+
+.formStyle:hover{
+  background-color: #EF305E !important;
+}
+
+button.navbar-toggler{
+  background-color: #EF305E !important;
+}
